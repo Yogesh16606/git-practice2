@@ -1,0 +1,3 @@
+Interface Calci{
+int getSum(int a, int b);
+}
